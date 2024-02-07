@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<tiles type="png" count="96" width="32" height="32" place="assets/images/tiles"/>
+    <player type="png" width="86" height="40" place="assets/images/player/">
+        <attack count="14" hitX="0" hitY="0" hitW="0" hitH="0" attackX="0" attackY="0" attackW="0" attackH="0"/>
+        <death count="8" hitX="0" hitY="0" hitW="0" hitH="0" attackX="0" attackY="0" attackW="0" attackH="0"/>
+        <hurt count="3" hitX="0" hitY="0" hitW="0" hitH="0" attackX="0" attackY="0" attackW="0" attackH="0"/>
+        <idle count="3" hitX="0" hitY="0" hitW="0" hitH="0" attackX="0" attackY="0" attackW="0" attackH="0"/>
+        <jump count="3" hitX="0" hitY="0" hitW="0" hitH="0" attackX="0" attackY="0" attackW="0" attackH="0"/>
+        <run count="8" hitX="0" hitY="0" hitW="0" hitH="0" attackX="0" attackY="0" attackW="0" attackH="0"/>
+    </player>
+    <maps type="tmx" count="1"/>
+</data>
